@@ -1,0 +1,27 @@
+{
+  "name": "m-core-firewall",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bytebeem/m-core-firewall.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bytebeem/m-core-firewall/issues"
+  },
+  "homepage": "https://github.com/Bytebeem/m-core-firewall#readme",
+  "dependencies": {
+    "express": "^4.21.0",
+    "winston": "^3.14.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
